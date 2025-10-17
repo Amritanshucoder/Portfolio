@@ -60,10 +60,5 @@ It showcases skills, projects, and contact details in a modern and responsive la
 
 ---
 
-## 🧑‍💻 How to Run Locally
-
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/Amritanshucoder/Portfolio.git
 
 
