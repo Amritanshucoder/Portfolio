@@ -22,7 +22,7 @@ It showcases skills, projects, and contact details in a modern and responsive la
 
 | 💻 Desktop View | 📱 Mobile View |
 |-----------------|----------------|
-| ![Desktop Preview](https://yourdomain.com/desktop-preview.png) | ![Mobile Preview](https://yourdomain.com/mobile-preview.png) |
+| ![Desktop Preview](https://amritanshucoder.github.io/Portfolio/desktop-preview.png) | ![Mobile Preview](https://amritanshucoder.github.io/Portfolio/mobile-preview.png) |
 
 ---
 
@@ -32,7 +32,7 @@ It showcases skills, projects, and contact details in a modern and responsive la
 |-----------|--------------|
 | 💡 Frontend | HTML5, CSS3, JavaScript |
 | 🎭 Icons | Font Awesome, Devicon |
-| 🌍 Hosting | Vercel / Netlify / GitHub Pages |
+| 🌍 Hosting | GitHub Pages |
 | 🔍 SEO | Meta Tags, Open Graph, Sitemap, Robots.txt |
 
 ---
